@@ -1,0 +1,36 @@
+#header-nav {
+	background-color: yellow;
+	opacity: 0.8;
+	width: 100%;
+	margin:0px;
+
+}
+
+  
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: blue;
+  
+}
+
+
+h2 {
+	text-align-last: center;
+
+}
+
+h3 {
+	text-align-last: center;
+	margin-top: 10px;
+	background-color: maroon;
+	opacity: 0.1;
+	color: yellow;
+
+}
+
+.chicken, .beef , .sushi {
+	background-color: green;
+
+
+}
